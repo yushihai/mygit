@@ -15,7 +15,7 @@ import java.util.List;
 
 public class MainActivity extends Activity {
 
-    private String[] data={"Apple","Banana","Orange","Watermelon","Pear","Grape","Pineapple","Strawberry","Cherry","Mango"};
+    private String[] data={"Apple","Banana","Orange","Watermelon","Pear","Grape","Pineapple","Strawberry","Cherry","Mangg"};
     private List<Fruit> fruitList=new ArrayList<Fruit>();
 
     @Override
